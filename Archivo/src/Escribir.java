@@ -5,12 +5,20 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.PrintWriter;
-
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JTextField;
-
 import org.w3c.dom.DocumentFragment;
+
+////////////////////////////////////////
+//
+//
+//	@Author Robert Vasquez - 2019
+//
+//
+////////////////////////////////////////
+
+//Ejemplo para escribir en un archivo 
 
 public class Escribir extends JFrame implements ActionListener{
 
