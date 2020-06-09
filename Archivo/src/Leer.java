@@ -7,13 +7,21 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
+////////////////////////////////////////
+//
+//
+//@Author Robert Vasquez - 2019
+//
+//
+////////////////////////////////////////
 
+
+//Ejemplo de Como leer de un Archivo
 public class Leer extends JFrame implements ActionListener {
 		
 	JTextArea salida;
